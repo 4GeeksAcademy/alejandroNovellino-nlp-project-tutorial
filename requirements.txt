@@ -13,5 +13,6 @@ seaborn
 shap
 sqlalchemy
 sympy
-tensorflow[and-cuda]
 xgboost
+nltk
+wordcloud
